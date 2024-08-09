@@ -1,1 +1,1 @@
-# BrainCog
+# CoGraCa
